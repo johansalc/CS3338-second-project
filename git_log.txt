@@ -1,0 +1,63 @@
+commit 7e48fde7dcb74357ce6691390a8bcb9bd4707728
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Wed Sep 3 08:14:00 2025 -0700
+
+    Deleted the merged junk and kept the otiginal div such a name, hibby, food and fav game
+
+commit c076ea1241d0d476ddf29b9f3d8a63eda18c61bd
+Merge: b7df41c efc27c6
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Wed Sep 3 08:02:51 2025 -0700
+
+    Merge remote-tracking branch 'origin/main'
+
+commit b7df41c305c607713d9a12eb7a9621414f279f1d
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Wed Sep 3 07:54:00 2025 -0700
+
+    added a new div of my fav videogame
+
+commit 5fbe81d601e1942f6a6dcae81cc753095fafa0c7
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Tue Sep 2 17:10:46 2025 -0700
+
+    Added div of fav food and updatd other div from index.html on main branch
+
+commit 5bb8a8aebb083034ea677d8a00bd28345add9900
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Tue Sep 2 17:00:56 2025 -0700
+
+    Added div of fav food
+
+commit efc27c65277ec7f5d559d074e17baeede93c2295
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Tue Sep 2 16:58:20 2025 -0700
+
+    Create README.md
+
+commit 641fcbc7d1a66ef95bcb6bbf2de552d23ed21d6d
+Merge: 1d2bfc0 c3cc550
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Tue Sep 2 16:55:54 2025 -0700
+
+    Merge pull request #1 from johansalc/info-fill
+    
+    Info fill
+
+commit c3cc550e8174a6b76e11c0f2364aa7cdd4ecc1a5
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Tue Sep 2 16:27:35 2025 -0700
+
+    fillced in the blank
+
+commit 4260a5b7fe0d74f6bd2f399798da4d836ea7c0c0
+Author: johansalc <jsalce29@calstatela.edu>
+Date:   Tue Sep 2 12:47:04 2025 -0700
+
+    filled the blank on info-fill banch
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
